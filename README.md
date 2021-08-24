@@ -1,7 +1,7 @@
 # Labyrinthe3D
  Video game 3D with Delphi
  
-This project is an example of 3D game developed with Delphi (Sydney 10.4.2). It was produced for the article "Labyrinthe en 3D avec Delphi" from Programez! magazine number 248 (https://www.programmez.com/).
+This project is an example of 3D game developed with Delphi (Sydney 10.4.2). It was produced for the article "Labyrinthe en 3D avec Delphi" from Programmez! magazine number 248 (https://www.programmez.com/).
 
 This game is cross-platform and you will find the binaries for Windows, Mac OS, Linux and Android in the bin repository.
 
