@@ -1,4 +1,4 @@
-# Labyrinthe3D
+# Labyrinthe3D [![License](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
  Video game 3D with Delphi
  
 This project is an example of 3D game developed with Delphi (Sydney 10.4.2). It was produced for the article "Labyrinthe en 3D avec Delphi" from Programmez! magazine number 248 (https://www.programmez.com/).
